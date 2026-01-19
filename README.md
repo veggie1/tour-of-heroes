@@ -2,6 +2,8 @@
 
 Tour of Heroes app based on [Angular Tutorial](https://v17.angular.io/tutorial/tour-of-heroes/toh-pt0)
 
+This app is standalone, so there are some modifications from the original tutorial. The big one is using json-server and real http calls for CRUD operations on the heroes.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.17.
 
 ## Development server
